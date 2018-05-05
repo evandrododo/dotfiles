@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/evandro/Documents/agilems/api/agilems/Taxes/Services'
+let g:netrw_dirhist_2='/home/evandro/Documents/agilems/api/agilems/Taxes'
+let g:netrw_dirhist_3='/home/evandro/Documents/agilems/api/agilems/Taxes/Models'
+let g:netrw_dirhist_4='/home/evandro/Documents/agilems/api/agilems/Taxes/Presenters'
+let g:netrw_dirhist_5='/home/evandro/Documents/agilems/api/agilems/Taxes'
+let g:netrw_dirhist_6='/home/evandro/Documents/agilems/api/agilems/Taxes/Models'
+let g:netrw_dirhist_7='/home/evandro/Documents/agilems/api/agilems/Taxes/Services'
